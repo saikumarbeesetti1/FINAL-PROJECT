@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "egg noodles",
+        "no of orders": 25,
+        "price": 50,
+        "discount": 5
+    },
+    {
+        "id": 2,
+        "name": "manchuria",
+        "no of orders": 25,
+        "price": 20,
+        "discount": 5
+    }
+]

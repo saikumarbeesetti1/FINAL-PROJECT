@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "sai",
+        "age": "22",
+        "email": "sai@",
+        "ph_no": "2000",
+        "password": "200",
+        "order history": {}
+    },
+    {
+        "id": 2,
+        "name": "eren",
+        "age": "21",
+        "email": "eren@",
+        "ph_no": "1000",
+        "password": "100",
+        "order history": {}
+    },
+    {
+        "id": 3,
+        "name": "mikasa",
+        "age": "20",
+        "email": "mikasa@",
+        "ph_no": "3000",
+        "password": "300",
+        "order history": {}
+    }
+]
